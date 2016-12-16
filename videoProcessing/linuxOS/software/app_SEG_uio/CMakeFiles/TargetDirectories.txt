@@ -1,0 +1,1 @@
+/home/linaro/Softwares/app_SEG_uio/CMakeFiles/camera.dir

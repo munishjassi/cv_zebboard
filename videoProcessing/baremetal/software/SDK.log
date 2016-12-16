@@ -1,0 +1,96 @@
+04:30:11.072 INFO  - Processing command line option -hwspec /nfs/TUEIEDAprojects/SystemDesign/work/zynq/mamatha/uzair_sharif/EDA_Munish/work_dir/dualCore_SOGRER/videoProcessing_prj/SDK/SDK_Export/hw/system.xml. 
+04:31:47.365 INFO  - Processing command line option -hwspec /nfs/TUEIEDAprojects/SystemDesign/work/zynq/mamatha/uzair_sharif/EDA_Munish/work_dir/dualCore_SOGRER/videoProcessing_prj/SDK/SDK_Export/hw/system.xml. 
+04:32:02.763 INFO  - Restoring local repository preferences: 
+		 /home/ga38qoh/EDA_Munish/zedboard_training/ZynqSW/2013_3/Support_documents/sdk_repo 
+04:33:20.452 ERROR - Unexpected error while create libgen makefile. org.eclipse.core.internal.resources.ResourceException: Resource '/standalone_bsp_0/Makefile' already exists.
+	at org.eclipse.core.internal.resources.Resource.checkDoesNotExist(Resource.java:320)
+	at org.eclipse.core.internal.resources.Resource.checkDoesNotExist(Resource.java:307)
+
+04:49:51.174 INFO  - System reset is completed. 
+04:49:55.894 INFO  - FPGA configured successfully with bitstream "/nfs/TUEIEDAprojects/SystemDesign/work/zynq/mamatha/uzair_sharif/EDA_Munish/work_dir/DSE/systems/SDK/SDK_Workspace/systems_hw_platform_0/system.bit" 
+04:49:56.454 INFO  - ps7_init is completed. 
+04:49:56.554 INFO  - ps7_post_config is completed. 
+04:49:57.146 INFO  - Application is downloaded for ps7_cortexa9_0. (/nfs/TUEIEDAprojects/SystemDesign/work/zynq/mamatha/uzair_sharif/EDA_Munish/work_dir/DSE/systems/SDK/SDK_Workspace/SOERGR_sw/Debug/SOERGR_sw.elf) 
+04:50:28.450 INFO  - System reset is completed. 
+04:50:32.740 INFO  - FPGA configured successfully with bitstream "/nfs/TUEIEDAprojects/SystemDesign/work/zynq/mamatha/uzair_sharif/EDA_Munish/work_dir/DSE/systems/SDK/SDK_Workspace/systems_hw_platform_0/system.bit" 
+04:50:33.326 INFO  - ps7_init is completed. 
+04:50:33.426 INFO  - ps7_post_config is completed. 
+04:50:33.936 INFO  - Application is downloaded for ps7_cortexa9_0. (/nfs/TUEIEDAprojects/SystemDesign/work/zynq/mamatha/uzair_sharif/EDA_Munish/work_dir/DSE/systems/SDK/SDK_Workspace/SOERGR_sw/Debug/SOERGR_sw.elf) 
+04:50:52.505 INFO  - System reset is completed. 
+04:50:56.890 INFO  - FPGA configured successfully with bitstream "/nfs/TUEIEDAprojects/SystemDesign/work/zynq/mamatha/uzair_sharif/EDA_Munish/work_dir/DSE/systems/SDK/SDK_Workspace/systems_hw_platform_0/system.bit" 
+04:50:57.388 INFO  - ps7_init is completed. 
+04:50:57.488 INFO  - ps7_post_config is completed. 
+04:50:58.089 INFO  - Application is downloaded for ps7_cortexa9_0. (/nfs/TUEIEDAprojects/SystemDesign/work/zynq/mamatha/uzair_sharif/EDA_Munish/work_dir/DSE/systems/SDK/SDK_Workspace/SOERGR_sw/Debug/SOERGR_sw.elf) 
+04:52:46.491 INFO  - System reset is completed. 
+04:52:50.762 INFO  - FPGA configured successfully with bitstream "/nfs/TUEIEDAprojects/SystemDesign/work/zynq/mamatha/uzair_sharif/EDA_Munish/work_dir/DSE/systems/SDK/SDK_Workspace/systems_hw_platform_0/system.bit" 
+04:52:51.239 INFO  - ps7_init is completed. 
+04:52:51.339 INFO  - ps7_post_config is completed. 
+04:52:51.848 INFO  - Application is downloaded for ps7_cortexa9_0. (/nfs/TUEIEDAprojects/SystemDesign/work/zynq/mamatha/uzair_sharif/EDA_Munish/work_dir/DSE/systems/SDK/SDK_Workspace/SOERGR_sw/Debug/SOERGR_sw.elf) 
+04:53:37.327 INFO  - System reset is completed. 
+04:53:41.907 INFO  - FPGA configured successfully with bitstream "/nfs/TUEIEDAprojects/SystemDesign/work/zynq/mamatha/uzair_sharif/EDA_Munish/work_dir/DSE/systems/SDK/SDK_Workspace/systems_hw_platform_0/system.bit" 
+04:53:42.491 INFO  - ps7_init is completed. 
+04:53:42.591 INFO  - ps7_post_config is completed. 
+04:53:43.000 INFO  - Application is downloaded for ps7_cortexa9_0. (/nfs/TUEIEDAprojects/SystemDesign/work/zynq/mamatha/uzair_sharif/EDA_Munish/work_dir/DSE/systems/SDK/SDK_Workspace/SOERGR_sw/Debug/SOERGR_sw.elf) 
+04:56:03.818 INFO  - System reset is completed. 
+04:56:08.231 INFO  - FPGA configured successfully with bitstream "/nfs/TUEIEDAprojects/SystemDesign/work/zynq/mamatha/uzair_sharif/EDA_Munish/work_dir/DSE/systems/SDK/SDK_Workspace/systems_hw_platform_0/system.bit" 
+04:56:08.796 INFO  - ps7_init is completed. 
+04:56:08.896 INFO  - ps7_post_config is completed. 
+04:56:09.505 INFO  - Application is downloaded for ps7_cortexa9_0. (/nfs/TUEIEDAprojects/SystemDesign/work/zynq/mamatha/uzair_sharif/EDA_Munish/work_dir/DSE/systems/SDK/SDK_Workspace/SOERGR_sw/Debug/SOERGR_sw.elf) 
+04:59:42.653 INFO  - System reset is completed. 
+04:59:47.093 INFO  - FPGA configured successfully with bitstream "/nfs/TUEIEDAprojects/SystemDesign/work/zynq/mamatha/uzair_sharif/EDA_Munish/work_dir/DSE/systems/SDK/SDK_Workspace/systems_hw_platform_0/system.bit" 
+04:59:47.645 INFO  - ps7_init is completed. 
+04:59:47.745 INFO  - ps7_post_config is completed. 
+04:59:48.256 INFO  - Application is downloaded for ps7_cortexa9_0. (/nfs/TUEIEDAprojects/SystemDesign/work/zynq/mamatha/uzair_sharif/EDA_Munish/work_dir/DSE/systems/SDK/SDK_Workspace/SOERGR_sw/Debug/SOERGR_sw.elf) 
+05:00:23.775 INFO  - System reset is completed. 
+05:00:28.378 INFO  - FPGA configured successfully with bitstream "/nfs/TUEIEDAprojects/SystemDesign/work/zynq/mamatha/uzair_sharif/EDA_Munish/work_dir/DSE/systems/SDK/SDK_Workspace/systems_hw_platform_0/system.bit" 
+05:00:28.940 INFO  - ps7_init is completed. 
+05:00:29.040 INFO  - ps7_post_config is completed. 
+05:00:29.686 INFO  - Application is downloaded for ps7_cortexa9_0. (/nfs/TUEIEDAprojects/SystemDesign/work/zynq/mamatha/uzair_sharif/EDA_Munish/work_dir/DSE/systems/SDK/SDK_Workspace/SOERGR_sw/Debug/SOERGR_sw.elf) 
+05:03:09.661 INFO  - System reset is completed. 
+05:03:14.073 INFO  - FPGA configured successfully with bitstream "/nfs/TUEIEDAprojects/SystemDesign/work/zynq/mamatha/uzair_sharif/EDA_Munish/work_dir/DSE/systems/SDK/SDK_Workspace/systems_hw_platform_0/system.bit" 
+05:03:14.525 INFO  - ps7_init is completed. 
+05:03:14.625 INFO  - ps7_post_config is completed. 
+05:03:15.155 INFO  - Application is downloaded for ps7_cortexa9_0. (/nfs/TUEIEDAprojects/SystemDesign/work/zynq/mamatha/uzair_sharif/EDA_Munish/work_dir/DSE/systems/SDK/SDK_Workspace/SOERGR_sw/Debug/SOERGR_sw.elf) 
+22:10:12.403 INFO  - System reset is completed. 
+22:10:16.990 INFO  - FPGA configured successfully with bitstream "/media/uzleo/data/engg/EDA_Munish/work_dir/DSE/systems/SDK/SDK_Workspace/systems_hw_platform_0/system.bit" 
+22:10:17.594 INFO  - ps7_init is completed. 
+22:10:17.694 INFO  - ps7_post_config is completed. 
+22:10:18.339 INFO  - Application is downloaded for ps7_cortexa9_0. (/media/uzleo/data/engg/EDA_Munish/work_dir/DSE/systems/SDK/SDK_Workspace/SOERGR_sw/Debug/SOERGR_sw.elf) 
+22:16:27.172 ERROR - Unexpected error while parsing XMD response ￿: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+22:55:05.828 INFO  - System reset is completed. 
+22:55:10.858 INFO  - FPGA configured successfully with bitstream "/nfs/TUEIEDAprojects/SoCOptimization/uzair/architectures/SEG/SDK/SDK_Workspace/systems_hw_platform_0/system.bit" 
+22:55:11.435 INFO  - ps7_init is completed. 
+22:55:11.535 INFO  - ps7_post_config is completed. 
+22:55:12.208 INFO  - Application is downloaded for ps7_cortexa9_0. (/nfs/TUEIEDAprojects/SoCOptimization/uzair/architectures/SEG/SDK/SDK_Workspace/SOERGR_sw/Debug/SOERGR_sw.elf) 
+22:55:31.771 INFO  - System reset is completed. 
+22:55:35.875 INFO  - FPGA configured successfully with bitstream "/nfs/TUEIEDAprojects/SoCOptimization/uzair/architectures/SEG/SDK/SDK_Workspace/systems_hw_platform_0/system.bit" 
+22:55:36.427 INFO  - ps7_init is completed. 
+22:55:36.528 INFO  - ps7_post_config is completed. 
+22:55:37.145 INFO  - Application is downloaded for ps7_cortexa9_0. (/nfs/TUEIEDAprojects/SoCOptimization/uzair/architectures/SEG/SDK/SDK_Workspace/SOERGR_sw/Debug/SOERGR_sw.elf) 
+22:55:51.763 ERROR - Unexpected error while parsing XMD response ￿: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+23:10:07.510 INFO  - System reset is completed. 
+23:10:12.059 INFO  - FPGA configured successfully with bitstream "/nfs/TUEIEDAprojects/SoCOptimization/uzair/architectures/SEG/SDK/SDK_Workspace/systems_hw_platform_0/system.bit" 
+23:10:12.508 INFO  - ps7_init is completed. 
+23:10:12.609 INFO  - ps7_post_config is completed. 
+23:10:13.274 INFO  - Application is downloaded for ps7_cortexa9_0. (/nfs/TUEIEDAprojects/SoCOptimization/uzair/architectures/SEG/SDK/SDK_Workspace/SOERGR_sw/Debug/SOERGR_sw.elf) 
+23:10:27.626 ERROR - Unexpected error while parsing XMD response ￿: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+18:54:38.945 INFO  - System reset is completed. 
+18:54:43.546 INFO  - FPGA configured successfully with bitstream "/nfs/TUEIEDAprojects/SoCOptimization/uzair/architectures/SEG/SDK/SDK_Workspace/systems_hw_platform_0/system.bit" 
+18:54:44.092 INFO  - ps7_init is completed. 
+18:54:44.192 INFO  - ps7_post_config is completed. 
+18:54:44.873 INFO  - Application is downloaded for ps7_cortexa9_0. (/nfs/TUEIEDAprojects/SoCOptimization/uzair/architectures/SEG/SDK/SDK_Workspace/SOERGR_sw/Debug/SOERGR_sw.elf) 
+18:55:12.859 INFO  - System reset is completed. 
+18:55:17.233 INFO  - FPGA configured successfully with bitstream "/nfs/TUEIEDAprojects/SoCOptimization/uzair/architectures/SEG/SDK/SDK_Workspace/systems_hw_platform_0/system.bit" 
+18:55:17.758 INFO  - ps7_init is completed. 
+18:55:17.858 INFO  - ps7_post_config is completed. 
+18:55:18.483 INFO  - Application is downloaded for ps7_cortexa9_0. (/nfs/TUEIEDAprojects/SoCOptimization/uzair/architectures/SEG/SDK/SDK_Workspace/SOERGR_sw/Debug/SOERGR_sw.elf) 
+18:56:49.005 INFO  - FPGA configured successfully with bitstream "/nfs/TUEIEDAprojects/SoCOptimization/uzair/architectures/SEG/SDK/SDK_Workspace/systems_hw_platform_0/system.bit" 
+18:56:54.413 INFO  - Processor reset is completed for ps7_cortexa9_0 
+18:56:54.513 INFO  - PS initialization will be done as it is not done before. 
+18:56:54.513 INFO  - Running PS initialization.... 
+18:56:54.641 INFO  - ps7_init is completed. 
+18:56:54.646 INFO  - ps7_post_config is completed. 
+18:56:54.746 INFO  - PS Initialization is complete. 
+18:57:35.900 INFO  - FPGA configured successfully with bitstream "/nfs/TUEIEDAprojects/SoCOptimization/uzair/architectures/SEG/SDK/SDK_Workspace/systems_hw_platform_0/system.bit" 
+18:57:43.072 INFO  - Processor reset is completed for ps7_cortexa9_0 
+18:57:59.885 ERROR - Unexpected error while parsing XMD response ￿: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  

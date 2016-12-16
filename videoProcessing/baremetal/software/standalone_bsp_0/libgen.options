@@ -1,0 +1,3 @@
+PROCESSOR=ps7_cortexa9_0
+REPOSITORIES=-lp /home/ga38qoh/EDA_Munish/zedboard_training/ZynqSW/2013_3/Support_documents/sdk_repo
+HWSPEC=../systems_hw_platform_0/system.xml

@@ -1,0 +1,70 @@
+%YAML:1.0
+# 
+#
+### Bilddaten:
+#
+sequence_subfolder: "sequence3"
+frame_names:
+   - "Frame_00017.bmp"
+   - "Frame_00018.bmp"
+   - "Frame_00019.bmp"
+   - "Frame_00020.bmp"
+   - "Frame_00021.bmp"
+   - "Frame_00022.bmp"
+   - "Frame_00023.bmp"
+   - "Frame_00024.bmp"
+   - "Frame_00025.bmp"
+   - "Frame_00026.bmp"
+   - "Frame_00027.bmp"
+   - "Frame_00028.bmp"
+   - "Frame_00029.bmp"
+   - "Frame_00030.bmp"
+   - "Frame_00031.bmp"
+   - "Frame_00032.bmp"
+   - "Frame_00033.bmp"
+   - "Frame_00034.bmp"
+   - "Frame_00035.bmp"
+   - "Frame_00036.bmp"
+   - "Frame_00037.bmp"
+   - "Frame_00038.bmp"
+   - "Frame_00039.bmp"
+   - "Frame_00040.bmp"
+   - "Frame_00041.bmp"
+   - "Frame_00042.bmp"
+   - "Frame_00043.bmp"
+   - "Frame_00044.bmp"
+   - "Frame_00045.bmp"
+   - "Frame_00046.bmp"
+   - "Frame_00047.bmp"
+   - "Frame_00048.bmp"
+   - "Frame_00049.bmp"
+   - "Frame_00050.bmp"
+   - "Frame_00051.bmp"
+   - "Frame_00052.bmp"
+   - "Frame_00053.bmp"
+   - "Frame_00054.bmp"
+   - "Frame_00055.bmp"
+   - "Frame_00056.bmp"
+   - "Frame_00057.bmp"
+   - "Frame_00058.bmp"
+   - "Frame_00059.bmp"
+   - "Frame_00060.bmp"
+   - "Frame_00061.bmp"
+   - "Frame_00062.bmp"
+   - "Frame_00063.bmp"
+   - "Frame_00064.bmp"
+   - "Frame_00065.bmp"
+#
+epsilon: 4
+sizeblur: 3
+name: "Test3"
+use_method_no: 3
+do_show: 1
+do_save: 1
+#
+### Test:
+compute_histogram: 0
+test_out_file: "Result_Optimize6_method2.yml"
+#
+#
+#

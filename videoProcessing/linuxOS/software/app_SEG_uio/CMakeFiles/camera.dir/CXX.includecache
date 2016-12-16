@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/linaro/Softwares/app_SEG_uio/camera.cpp
+stdio.h
+-
+opencv2/opencv.hpp
+-
+sys/mman.h
+-
+fcntl.h
+-
+unistd.h
+-
+config.h
+/home/linaro/Softwares/app_SEG_uio/config.h
+stdlib.h
+/home/linaro/Softwares/app_SEG_uio/stdlib.h
+
+/home/linaro/Softwares/app_SEG_uio/config.h
+hardware.c
+/home/linaro/Softwares/app_SEG_uio/hardware.c
+
+/home/linaro/Softwares/app_SEG_uio/hardware.c
+unistd.h
+-
+sys/types.h
+-
+dirent.h
+-
+stdio.h
+-
+cstring
+-
+stdlib.h
+-
+

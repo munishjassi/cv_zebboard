@@ -1,0 +1,43 @@
+%YAML:1.0
+# 
+#
+### Bilddaten:
+#
+sequence_subfolder: "sequence1"
+frame_names:
+   - "Test_Seq_0000.bmp"
+   - "Test_Seq_0001.bmp"
+   - "Test_Seq_0002.bmp"
+   - "Test_Seq_0003.bmp"
+   - "Test_Seq_0004.bmp"
+   - "Test_Seq_0005.bmp"
+   - "Test_Seq_0006.bmp"
+   - "Test_Seq_0007.bmp"
+   - "Test_Seq_0008.bmp"
+   - "Test_Seq_0009.bmp"
+   - "Test_Seq_0010.bmp"
+   - "Test_Seq_0011.bmp"
+   - "Test_Seq_0012.bmp"
+   - "Test_Seq_0013.bmp"
+   - "Test_Seq_0014.bmp"
+   - "Test_Seq_0015.bmp"
+   - "Test_Seq_0016.bmp"
+   - "Test_Seq_0017.bmp"
+   - "Test_Seq_0018.bmp"
+   - "Test_Seq_0019.bmp"
+   - "Test_Seq_0020.bmp"
+#
+epsilon: 20
+sizeblur: 3
+name: "Test1"
+use_method_no: 3
+do_show: 1
+do_save: 1
+#
+### Test:
+output_subfolder: "all_filter"
+compute_histogram: 0
+test_out_file: "Result_Optimize6_method.yml"
+#
+#
+#

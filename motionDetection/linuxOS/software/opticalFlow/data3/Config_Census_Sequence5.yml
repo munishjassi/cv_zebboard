@@ -1,0 +1,31 @@
+%YAML:1.0
+# 
+#
+### Bilddaten:
+#
+sequence_subfolder: "sequence5_s0"
+frame_names:
+   - "i001.bmp"
+   - "i002.bmp"
+   - "i003.bmp"
+   - "i004.bmp"
+   - "i005.bmp"
+   - "i006.bmp"
+   - "i007.bmp"
+   - "i008.bmp"
+   - "i009.bmp"
+   - "i010.bmp"
+#
+epsilon: 20
+sizeblur: 3
+name: "Test5"
+use_method_no: 3
+do_show: 1
+do_save: 1
+#
+### Test:
+compute_histogram: 0
+test_out_file: "Result_Sequence5_s0.yml"
+#
+#
+#

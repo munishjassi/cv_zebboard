@@ -1,0 +1,3 @@
+PROCESSOR=ps7_cortexa9_0
+REPOSITORIES=-lp ..
+HWSPEC=../videoProcessing_prj_hw_platform/system.xml
